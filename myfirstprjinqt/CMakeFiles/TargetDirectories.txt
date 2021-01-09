@@ -1,0 +1,4 @@
+/home/sierra-node/myfirstprjinqt/CMakeFiles/rebuild_cache.dir
+/home/sierra-node/myfirstprjinqt/CMakeFiles/edit_cache.dir
+/home/sierra-node/myfirstprjinqt/CMakeFiles/myfirstprjinqt.dir
+/home/sierra-node/myfirstprjinqt/CMakeFiles/myfirstprjinqt_autogen.dir

@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+72dd7fca62d061372499a90ebc095665 CMakeFiles/myfirstprjinqt_autogen
+a352168ecf2804bbef6ff3ed46ed98da myfirstprjinqt_en_US.ts
